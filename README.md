@@ -1,4 +1,7 @@
 # S-Process_Binary_Data
+
+## LOCATION HAS BEEN MOVED TO ZENODO, YOU MAY FIND ALL OF YOUR CHEMICALLY PECULIAR STELLAR SPECTRA AND DATA HERE: _____________________________________
+
 Hosting location for stellar spectra, RV data, and abundace data collected through the ChETEC-INFRA TNA program for Alexander J. Dimoff's PhD project in nuclear astrophysics.
 
 Included telescopes / instruments are: Ondrejov OES, Moletai VUES, Rozhen ESpeRo. Raw stellar spectra can be found in the corresonding directories.
